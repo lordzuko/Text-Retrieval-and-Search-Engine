@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/CMakeFiles/liblinear"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/CMakeFiles/liblinear.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/CMakeFiles/liblinear-complete.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-install.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-mkdir.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-download.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-update.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-patch.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-configure.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"liblinear"
+		],
+		"name" : "liblinear"
+	}
+}

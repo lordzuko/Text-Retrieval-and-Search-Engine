@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-kernel.a  CMakeFiles/meta-kernel.dir/kernel_factory.cpp.obj CMakeFiles/meta-kernel.dir/polynomial.cpp.obj CMakeFiles/meta-kernel.dir/radial_basis.cpp.obj CMakeFiles/meta-kernel.dir/sigmoid.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-kernel.a

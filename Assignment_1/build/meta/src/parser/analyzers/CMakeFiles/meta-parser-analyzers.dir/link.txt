@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../../lib/libmeta-parser-analyzers.a  CMakeFiles/meta-parser-analyzers.dir/tree_analyzer.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../../lib/libmeta-parser-analyzers.a

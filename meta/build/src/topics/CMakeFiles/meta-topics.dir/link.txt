@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-topics.a  CMakeFiles/meta-topics.dir/lda_cvb.cpp.obj CMakeFiles/meta-topics.dir/lda_gibbs.cpp.obj CMakeFiles/meta-topics.dir/lda_model.cpp.obj CMakeFiles/meta-topics.dir/lda_scvb.cpp.obj CMakeFiles/meta-topics.dir/parallel_lda_gibbs.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-topics.a

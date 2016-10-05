@@ -1,0 +1,25 @@
+Performing C++ SOURCE FILE Test META_HAS_ALIGNED_ALLOC failed with the following output:
+Change Dir: C:/msys64/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/msys64/usr/bin/make.exe" "cmTC_d50cf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d50cf.dir/build.make CMakeFiles/cmTC_d50cf.dir/build
+make[1]: Entering directory '/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d50cf.dir/src.cxx.obj
+/C/msys64/mingw64/bin/g++.exe     -DMETA_HAS_ALIGNED_ALLOC  -std=c++14   -o CMakeFiles/cmTC_d50cf.dir/src.cxx.obj -c /C/msys64/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp/src.cxx
+C:/msys64/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp/src.cxx: In function 'int main()':
+C:/msys64/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp/src.cxx:6:5: error: '::aligned_alloc' has not been declared
+     ::aligned_alloc(64, 128);
+     ^~
+make[1]: *** [CMakeFiles/cmTC_d50cf.dir/build.make:66: CMakeFiles/cmTC_d50cf.dir/src.cxx.obj] Error 1
+make[1]: Leaving directory '/home/hmaurya/Assignment_1/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_d50cf/fast] Error 2
+
+Source file was:
+
+#include <cstdlib>
+
+int main()
+{
+    ::aligned_alloc(64, 128);
+    return 0;
+}

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Project" targetName="search" />
+      <config projectName="Project" targetName="query-lm" />
+      <config projectName="Project" targetName="meta-parser-featurizers" />
+      <config projectName="Project" targetName="corpus-gen" />
+      <config projectName="Project" targetName="meta-classify" />
+      <config projectName="Project" targetName="utf8-test" />
+      <config projectName="Project" targetName="meta-corpus" />
+      <config projectName="Project" targetName="feature-summary" />
+      <config projectName="Project" targetName="unit-test" />
+      <config projectName="Project" targetName="meta-sequence" />
+      <config projectName="Project" targetName="meta-index" />
+      <config projectName="Project" targetName="meta-parser-trees" />
+      <config projectName="Project" targetName="meta-tokenizers" />
+      <config projectName="Project" targetName="embedding-vocab" />
+      <config projectName="Project" targetName="mph-vocab" />
+      <config projectName="Project" targetName="online-classify" />
+      <config projectName="Project" targetName="crf-train" />
+      <config projectName="Project" targetName="forward-to-libsvm" />
+      <config projectName="Project" targetName="interactive-search" />
+      <config projectName="Project" targetName="meta-succinct" />
+      <config projectName="Project" targetName="meta-util" />
+      <config projectName="Project" targetName="relevance-judgements" />
+      <config projectName="Project" targetName="pos-tag" />
+      <config projectName="Project" targetName="meta-parser" />
+      <config projectName="Project" targetName="meta-tree-visitors" />
+      <config projectName="Project" targetName="build-mph-lm" />
+      <config projectName="Project" targetName="meta-topics" />
+      <config projectName="Project" targetName="topic-corpus" />
+      <config projectName="Project" targetName="glove" />
+      <config projectName="Project" targetName="classify" />
+      <config projectName="Project" targetName="profile" />
+      <config projectName="Project" targetName="query-runner" />
+      <config projectName="Project" targetName="meta-lm-analyzers" />
+      <config projectName="Project" targetName="index" />
+      <config projectName="Project" targetName="lda-topics" />
+      <config projectName="Project" targetName="analyze" />
+      <config projectName="Project" targetName="meta-parser-io" />
+      <config projectName="Project" targetName="meta-loss" />
+      <config projectName="Project" targetName="meta-to-glove" />
+      <config projectName="Project" targetName="ceeaus" />
+      <config projectName="Project" targetName="parser-test" />
+      <config projectName="Project" targetName="crf-test" />
+      <config projectName="Project" targetName="meta-ranker" />
+      <config projectName="Project" targetName="tokenize-test" />
+      <config projectName="Project" targetName="lda" />
+      <config projectName="Project" targetName="greedy-tagger-test" />
+      <config projectName="Project" targetName="print-vocab" />
+      <config projectName="Project" targetName="meta-stats" />
+      <config projectName="Project" targetName="embedding-coocur" />
+      <config projectName="Project" targetName="meta-sequence-analyzers" />
+      <config projectName="Project" targetName="sr-parse" />
+      <config projectName="Project" targetName="pos-tokenizer" />
+      <config projectName="Project" targetName="interactive-embeddings" />
+      <config projectName="Project" targetName="meta-crf" />
+      <config projectName="Project" targetName="meta-language-model" />
+      <config projectName="Project" targetName="graph-test" />
+      <config projectName="Project" targetName="meta-filters" />
+      <config projectName="Project" targetName="meta-io" />
+      <config projectName="Project" targetName="sentence-likelihood" />
+      <config projectName="Project" targetName="cpptoml-build" />
+      <config projectName="Project" targetName="meta-eval" />
+      <config projectName="Project" targetName="greedy-tagger-train" />
+      <config projectName="Project" targetName="compressor-test" />
+      <config projectName="Project" targetName="regression" />
+      <config projectName="Project" targetName="diff-test" />
+      <config projectName="Project" targetName="parser-train" />
+      <config projectName="Project" targetName="meta-parser-analyzers" />
+      <config projectName="Project" targetName="liblinear" />
+      <config projectName="Project" targetName="housing" />
+      <config projectName="Project" targetName="meta-regression" />
+      <config projectName="Project" targetName="meta-learn" />
+      <config projectName="Project" targetName="search-vocab" />
+      <config projectName="Project" targetName="meta-utf" />
+      <config projectName="Project" targetName="read-trees" />
+      <config projectName="Project" targetName="meta-analyzers" />
+      <config projectName="Project" targetName="meta-features" />
+      <config projectName="Project" targetName="top-k" />
+      <config projectName="Project" targetName="parse" />
+      <config projectName="Project" targetName="cpptoml-parser" />
+      <config projectName="Project" targetName="meta-embeddings" />
+      <config projectName="Project" targetName="meta-greedy-tagger" />
+      <config projectName="Project" targetName="tidy" />
+      <config projectName="Project" targetName="libsvm" />
+      <config projectName="Project" targetName="meta-kernel" />
+      <config projectName="Project" targetName="wiki-page-rank" />
+      <config projectName="Project" targetName="breast-cancer" />
+      <config projectName="Project" targetName="ranking-experiment" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4250d1e-e68f-422f-adb5-313f788c6698" name="Default" comment="" />
+    <ignored path="Assignment_1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Assignment_1" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="analyze" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="analyze" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="analyze" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="analyze">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ranking-experiment" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ranking-experiment" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ranking-experiment">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="relevance-judgements" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="relevance-judgements" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="relevance-judgements">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tidy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tidy" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cpptoml-build" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="cpptoml-build" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="cpptoml-build">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cpptoml-parser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="cpptoml-parser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="cpptoml-parser">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="parse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="parse">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-analyzers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-analyzers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-filters" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-filters" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-tokenizers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-tokenizers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tokenize-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tokenize-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="tokenize-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="liblinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="liblinear" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libsvm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="libsvm" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-classify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-classify" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-kernel" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-kernel" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="classify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="classify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="classify">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="online-classify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="online-classify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="online-classify">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-corpus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-corpus" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="corpus-gen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="corpus-gen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="corpus-gen">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-embeddings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-embeddings" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="embedding-coocur" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="embedding-coocur" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="embedding-coocur">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="embedding-vocab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="embedding-vocab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="embedding-vocab">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="glove" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="glove" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="glove">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="interactive-embeddings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="interactive-embeddings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="interactive-embeddings">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-to-glove" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-to-glove" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="meta-to-glove">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-features" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-features" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="feature-summary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="feature-summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="feature-summary">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="graph-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="graph-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="graph-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="wiki-page-rank" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="wiki-page-rank" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="wiki-page-rank">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-index" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-index" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-eval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-eval" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-ranker" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-ranker" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="forward-to-libsvm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="forward-to-libsvm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="forward-to-libsvm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="index" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="index" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="index">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="interactive-search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="interactive-search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="interactive-search">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="print-vocab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="print-vocab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="print-vocab">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="query-runner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="query-runner" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="query-runner">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="search">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="search-vocab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="search-vocab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="search-vocab">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-io" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-io" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="compressor-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="compressor-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="compressor-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-learn" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-learn" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-loss" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-loss" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-language-model" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-language-model" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-lm-analyzers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-lm-analyzers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="build-mph-lm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="build-mph-lm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="build-mph-lm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="diff-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="diff-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="diff-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="query-lm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="query-lm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="query-lm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sentence-likelihood" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sentence-likelihood" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="sentence-likelihood">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-parser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-parser" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-parser-analyzers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-parser-analyzers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-parser-featurizers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-parser-featurizers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-parser-io" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-parser-io" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="parser-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="parser-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="parser-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="parser-train" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="parser-train" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="parser-train">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="read-trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="read-trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="read-trees">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sr-parse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sr-parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="sr-parse">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-parser-trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-parser-trees" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-tree-visitors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-tree-visitors" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-regression" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-regression" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="regression" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="regression" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="regression">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-greedy-tagger" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-greedy-tagger" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-sequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-sequence" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-sequence-analyzers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-sequence-analyzers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-crf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-crf" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="crf-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="crf-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="crf-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="crf-train" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="crf-train" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="crf-train">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pos-tag" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="pos-tag" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="pos-tag">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pos-tokenizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="pos-tokenizer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="pos-tokenizer">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="greedy-tagger-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="greedy-tagger-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="greedy-tagger-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="greedy-tagger-train" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="greedy-tagger-train" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="greedy-tagger-train">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-stats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-stats" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-succinct" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-succinct" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mph-vocab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="mph-vocab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="mph-vocab">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="profile" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="profile" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="profile">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="top-k" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="top-k" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="top-k">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-topics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-topics" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lda" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="lda" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="lda">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lda-topics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="lda-topics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="lda-topics">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="topic-corpus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="topic-corpus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="topic-corpus">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-utf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-utf" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="utf8-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="utf8-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="utf8-test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="meta-util" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="meta-util" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="breast-cancer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="breast-cancer" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ceeaus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ceeaus" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="housing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="housing" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-test">
+      <envs />
+      <method />
+    </configuration>
+    <list size="88">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.analyze" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ranking-experiment" />
+      <item index="3" class="java.lang.String" itemvalue="Application.relevance-judgements" />
+      <item index="4" class="java.lang.String" itemvalue="Application.tidy" />
+      <item index="5" class="java.lang.String" itemvalue="Application.cpptoml-build" />
+      <item index="6" class="java.lang.String" itemvalue="Application.cpptoml-parser" />
+      <item index="7" class="java.lang.String" itemvalue="Application.parse" />
+      <item index="8" class="java.lang.String" itemvalue="Application.meta-analyzers" />
+      <item index="9" class="java.lang.String" itemvalue="Application.meta-filters" />
+      <item index="10" class="java.lang.String" itemvalue="Application.meta-tokenizers" />
+      <item index="11" class="java.lang.String" itemvalue="Application.tokenize-test" />
+      <item index="12" class="java.lang.String" itemvalue="Application.liblinear" />
+      <item index="13" class="java.lang.String" itemvalue="Application.libsvm" />
+      <item index="14" class="java.lang.String" itemvalue="Application.meta-classify" />
+      <item index="15" class="java.lang.String" itemvalue="Application.meta-kernel" />
+      <item index="16" class="java.lang.String" itemvalue="Application.classify" />
+      <item index="17" class="java.lang.String" itemvalue="Application.online-classify" />
+      <item index="18" class="java.lang.String" itemvalue="Application.meta-corpus" />
+      <item index="19" class="java.lang.String" itemvalue="Application.corpus-gen" />
+      <item index="20" class="java.lang.String" itemvalue="Application.meta-embeddings" />
+      <item index="21" class="java.lang.String" itemvalue="Application.embedding-coocur" />
+      <item index="22" class="java.lang.String" itemvalue="Application.embedding-vocab" />
+      <item index="23" class="java.lang.String" itemvalue="Application.glove" />
+      <item index="24" class="java.lang.String" itemvalue="Application.interactive-embeddings" />
+      <item index="25" class="java.lang.String" itemvalue="Application.meta-to-glove" />
+      <item index="26" class="java.lang.String" itemvalue="Application.meta-features" />
+      <item index="27" class="java.lang.String" itemvalue="Application.feature-summary" />
+      <item index="28" class="java.lang.String" itemvalue="Application.graph-test" />
+      <item index="29" class="java.lang.String" itemvalue="Application.wiki-page-rank" />
+      <item index="30" class="java.lang.String" itemvalue="Application.meta-index" />
+      <item index="31" class="java.lang.String" itemvalue="Application.meta-eval" />
+      <item index="32" class="java.lang.String" itemvalue="Application.meta-ranker" />
+      <item index="33" class="java.lang.String" itemvalue="Application.forward-to-libsvm" />
+      <item index="34" class="java.lang.String" itemvalue="Application.index" />
+      <item index="35" class="java.lang.String" itemvalue="Application.interactive-search" />
+      <item index="36" class="java.lang.String" itemvalue="Application.print-vocab" />
+      <item index="37" class="java.lang.String" itemvalue="Application.query-runner" />
+      <item index="38" class="java.lang.String" itemvalue="Application.search" />
+      <item index="39" class="java.lang.String" itemvalue="Application.search-vocab" />
+      <item index="40" class="java.lang.String" itemvalue="Application.meta-io" />
+      <item index="41" class="java.lang.String" itemvalue="Application.compressor-test" />
+      <item index="42" class="java.lang.String" itemvalue="Application.meta-learn" />
+      <item index="43" class="java.lang.String" itemvalue="Application.meta-loss" />
+      <item index="44" class="java.lang.String" itemvalue="Application.meta-language-model" />
+      <item index="45" class="java.lang.String" itemvalue="Application.meta-lm-analyzers" />
+      <item index="46" class="java.lang.String" itemvalue="Application.build-mph-lm" />
+      <item index="47" class="java.lang.String" itemvalue="Application.diff-test" />
+      <item index="48" class="java.lang.String" itemvalue="Application.query-lm" />
+      <item index="49" class="java.lang.String" itemvalue="Application.sentence-likelihood" />
+      <item index="50" class="java.lang.String" itemvalue="Application.meta-parser" />
+      <item index="51" class="java.lang.String" itemvalue="Application.meta-parser-analyzers" />
+      <item index="52" class="java.lang.String" itemvalue="Application.meta-parser-featurizers" />
+      <item index="53" class="java.lang.String" itemvalue="Application.meta-parser-io" />
+      <item index="54" class="java.lang.String" itemvalue="Application.parser-test" />
+      <item index="55" class="java.lang.String" itemvalue="Application.parser-train" />
+      <item index="56" class="java.lang.String" itemvalue="Application.read-trees" />
+      <item index="57" class="java.lang.String" itemvalue="Application.sr-parse" />
+      <item index="58" class="java.lang.String" itemvalue="Application.meta-parser-trees" />
+      <item index="59" class="java.lang.String" itemvalue="Application.meta-tree-visitors" />
+      <item index="60" class="java.lang.String" itemvalue="Application.meta-regression" />
+      <item index="61" class="java.lang.String" itemvalue="Application.regression" />
+      <item index="62" class="java.lang.String" itemvalue="Application.meta-greedy-tagger" />
+      <item index="63" class="java.lang.String" itemvalue="Application.meta-sequence" />
+      <item index="64" class="java.lang.String" itemvalue="Application.meta-sequence-analyzers" />
+      <item index="65" class="java.lang.String" itemvalue="Application.meta-crf" />
+      <item index="66" class="java.lang.String" itemvalue="Application.crf-test" />
+      <item index="67" class="java.lang.String" itemvalue="Application.crf-train" />
+      <item index="68" class="java.lang.String" itemvalue="Application.pos-tag" />
+      <item index="69" class="java.lang.String" itemvalue="Application.pos-tokenizer" />
+      <item index="70" class="java.lang.String" itemvalue="Application.greedy-tagger-test" />
+      <item index="71" class="java.lang.String" itemvalue="Application.greedy-tagger-train" />
+      <item index="72" class="java.lang.String" itemvalue="Application.meta-stats" />
+      <item index="73" class="java.lang.String" itemvalue="Application.meta-succinct" />
+      <item index="74" class="java.lang.String" itemvalue="Application.mph-vocab" />
+      <item index="75" class="java.lang.String" itemvalue="Application.profile" />
+      <item index="76" class="java.lang.String" itemvalue="Application.top-k" />
+      <item index="77" class="java.lang.String" itemvalue="Application.meta-topics" />
+      <item index="78" class="java.lang.String" itemvalue="Application.lda" />
+      <item index="79" class="java.lang.String" itemvalue="Application.lda-topics" />
+      <item index="80" class="java.lang.String" itemvalue="Application.topic-corpus" />
+      <item index="81" class="java.lang.String" itemvalue="Application.meta-utf" />
+      <item index="82" class="java.lang.String" itemvalue="Application.utf8-test" />
+      <item index="83" class="java.lang.String" itemvalue="Application.meta-util" />
+      <item index="84" class="java.lang.String" itemvalue="Application.breast-cancer" />
+      <item index="85" class="java.lang.String" itemvalue="Application.ceeaus" />
+      <item index="86" class="java.lang.String" itemvalue="Application.housing" />
+      <item index="87" class="java.lang.String" itemvalue="Application.unit-test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4250d1e-e68f-422f-adb5-313f788c6698" name="Default" comment="" />
+      <created>1475694607028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475694607028</updated>
+      <workItem from="1475694615059" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="195000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

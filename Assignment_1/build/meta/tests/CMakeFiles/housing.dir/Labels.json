@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/housing"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/housing.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/housing-complete.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-install.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-mkdir.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-download.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-update.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-patch.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-configure.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/housing-prefix/src/housing-stamp/housing-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"housing"
+		],
+		"name" : "housing"
+	}
+}

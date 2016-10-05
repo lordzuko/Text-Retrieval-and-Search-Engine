@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-analyzers.a  CMakeFiles/meta-analyzers.dir/analyzer.cpp.obj CMakeFiles/meta-analyzers.dir/analyzer_factory.cpp.obj CMakeFiles/meta-analyzers.dir/multi_analyzer.cpp.obj CMakeFiles/meta-analyzers.dir/ngram/ngram_analyzer.cpp.obj CMakeFiles/meta-analyzers.dir/ngram/ngram_word_analyzer.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-analyzers.a

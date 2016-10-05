@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-learn.a  CMakeFiles/meta-learn.dir/sgd.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-learn.a

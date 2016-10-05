@@ -1,0 +1,1137 @@
+[
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-analyzers.dir/analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-analyzers.dir/analyzer_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/analyzer_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/analyzer_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-analyzers.dir/multi_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/multi_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/multi_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-analyzers.dir/ngram/ngram_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/ngram/ngram_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/ngram/ngram_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-analyzers.dir/ngram/ngram_word_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/ngram/ngram_word_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/ngram/ngram_word_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/alpha_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/alpha_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/alpha_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/empty_sentence_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/empty_sentence_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/empty_sentence_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/english_normalizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/english_normalizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/english_normalizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/filter_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/filter_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/filter_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/icu_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/icu_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/icu_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/length_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/length_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/length_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/list_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/list_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/list_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/lowercase_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/lowercase_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/lowercase_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/porter2_stemmer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/porter2_stemmer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/porter2_stemmer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/porter2_filter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/porter2_filter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/porter2_filter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/ptb_normalizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/ptb_normalizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/ptb_normalizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/filters",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-filters.dir/sentence_boundary.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/filters/sentence_boundary.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/filters/sentence_boundary.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/tokenizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tokenizers.dir/character_tokenizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/tokenizers/character_tokenizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/tokenizers/character_tokenizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/tokenizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tokenizers.dir/icu_tokenizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/tokenizers/icu_tokenizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/tokenizers/icu_tokenizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/tokenizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tokenizers.dir/whitespace_tokenizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/tokenizers/whitespace_tokenizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/tokenizers/whitespace_tokenizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/analyzers/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/tokenize-test.dir/tokenize_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/analyzers/tools/tokenize_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/analyzers/tools/tokenize_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/binary_classifier_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/binary_classifier_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/binary_classifier_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/binary_classifier.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/binary_classifier.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/binary_classifier.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/classifier.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/classifier.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/classifier.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/dual_perceptron.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/dual_perceptron.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/dual_perceptron.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/knn.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/knn.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/knn.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/nearest_centroid.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/nearest_centroid.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/nearest_centroid.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/logistic_regression.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/logistic_regression.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/logistic_regression.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/naive_bayes.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/naive_bayes.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/naive_bayes.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/one_vs_all.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/one_vs_all.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/one_vs_all.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/one_vs_one.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/one_vs_one.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/one_vs_one.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/sgd.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/sgd.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/sgd.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/svm_wrapper.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/svm_wrapper.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/svm_wrapper.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier/winnow.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier/winnow.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier/winnow.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/classifier_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/classifier_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/classifier_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-classify.dir/confusion_matrix.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/confusion_matrix.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/confusion_matrix.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/kernel",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-kernel.dir/kernel_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/kernel/kernel_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/kernel/kernel_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/kernel",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-kernel.dir/polynomial.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/kernel/polynomial.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/kernel/polynomial.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/kernel",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-kernel.dir/radial_basis.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/kernel/radial_basis.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/kernel/radial_basis.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/kernel",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-kernel.dir/sigmoid.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/kernel/sigmoid.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/kernel/sigmoid.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/classify.dir/classify.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/tools/classify.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/tools/classify.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/classify/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/online-classify.dir/online_classify.cpp.obj -c /C/msys64/home/hmaurya/meta/src/classify/tools/online_classify.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/classify/tools/online_classify.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/corpus_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/corpus_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/corpus_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/document.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/document.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/document.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/file_corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/file_corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/file_corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/libsvm_corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/libsvm_corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/libsvm_corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/line_corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/line_corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/line_corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/gz_corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/gz_corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/gz_corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/metadata.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/metadata.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/metadata.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-corpus.dir/metadata_parser.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/metadata_parser.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/metadata_parser.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/corpus/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/corpus-gen.dir/corpus_gen.cpp.obj -c /C/msys64/home/hmaurya/meta/src/corpus/tools/corpus_gen.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/corpus/tools/corpus_gen.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-embeddings.dir/word_embeddings.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/word_embeddings.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/word_embeddings.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/embedding-vocab.dir/embedding_vocab.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/tools/embedding_vocab.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/tools/embedding_vocab.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/interactive-embeddings.dir/interactive_embeddings.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/tools/interactive_embeddings.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/tools/interactive_embeddings.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-to-glove.dir/meta_to_glove.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/tools/meta_to_glove.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/tools/meta_to_glove.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/embedding-coocur.dir/embedding_coocur.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/tools/embedding_coocur.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/tools/embedding_coocur.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/embeddings/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/glove.dir/glove.cpp.obj -c /C/msys64/home/hmaurya/meta/src/embeddings/tools/glove.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/embeddings/tools/glove.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/feature_selector.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/feature_selector.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/feature_selector.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/selector_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/selector_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/selector_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/chi_square.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/chi_square.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/chi_square.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/odds_ratio.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/odds_ratio.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/odds_ratio.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/correlation_coefficient.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/correlation_coefficient.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/correlation_coefficient.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-features.dir/information_gain.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/information_gain.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/information_gain.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/features/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/feature-summary.dir/feature_summary.cpp.obj -c /C/msys64/home/hmaurya/meta/src/features/tools/feature_summary.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/features/tools/feature_summary.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/graph/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/graph-test.dir/graph_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/graph/tools/graph_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/graph/tools/graph_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/graph/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/wiki-page-rank.dir/wiki_page_rank.cpp.obj -c /C/msys64/home/hmaurya/meta/src/graph/tools/wiki_page_rank.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/graph/tools/wiki_page_rank.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/disk_index.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/disk_index.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/disk_index.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/forward_index.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/forward_index.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/forward_index.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/inverted_index.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/inverted_index.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/inverted_index.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/metadata_file.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/metadata_file.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/metadata_file.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/metadata_writer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/metadata_writer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/metadata_writer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/string_list.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/string_list.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/string_list.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/string_list_writer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/string_list_writer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/string_list_writer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/vocabulary_map.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/vocabulary_map.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/vocabulary_map.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-index.dir/vocabulary_map_writer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/vocabulary_map_writer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/vocabulary_map_writer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/eval",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-eval.dir/ir_eval.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/eval/ir_eval.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/eval/ir_eval.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/eval",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-eval.dir/rank_correlation.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/eval/rank_correlation.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/eval/rank_correlation.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/absolute_discount.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/absolute_discount.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/absolute_discount.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/dirichlet_prior.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/dirichlet_prior.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/dirichlet_prior.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/jelinek_mercer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/jelinek_mercer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/jelinek_mercer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/lm_ranker.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/lm_ranker.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/lm_ranker.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/okapi_bm25.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/okapi_bm25.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/okapi_bm25.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/pivoted_length.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/pivoted_length.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/pivoted_length.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/ranker.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/ranker.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/ranker.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/ranker",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-ranker.dir/ranker_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/ranker/ranker_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/ranker/ranker_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/interactive-search.dir/interactive_search.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/interactive_search.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/interactive_search.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/index.dir/index.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/index.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/index.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/query-runner.dir/query_runner.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/query_runner.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/query_runner.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/search-vocab.dir/search_vocab.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/search_vocab.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/search_vocab.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/print-vocab.dir/print_vocab.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/print_vocab.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/print_vocab.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/search.dir/search.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/search.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/search.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/index/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/forward-to-libsvm.dir/forward_to_libsvm.cpp.obj -c /C/msys64/home/hmaurya/meta/src/index/tools/forward_to_libsvm.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/index/tools/forward_to_libsvm.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -isystem /C/msys64/home/hmaurya/meta/deps/meta-stlsoft/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-io.dir/filesystem.cpp.obj -c /C/msys64/home/hmaurya/meta/src/io/filesystem.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/filesystem.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -isystem /C/msys64/home/hmaurya/meta/deps/meta-stlsoft/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-io.dir/gzstream.cpp.obj -c /C/msys64/home/hmaurya/meta/src/io/gzstream.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/gzstream.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -isystem /C/msys64/home/hmaurya/meta/deps/meta-stlsoft/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-io.dir/libsvm_parser.cpp.obj -c /C/msys64/home/hmaurya/meta/src/io/libsvm_parser.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/libsvm_parser.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -isystem /C/msys64/home/hmaurya/meta/deps/meta-stlsoft/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-io.dir/mmap_file.cpp.obj -c /C/msys64/home/hmaurya/meta/src/io/mmap_file.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/mmap_file.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io",
+  "command": "/C/msys64/mingw64/bin/gcc.exe   -isystem /C/msys64/home/hmaurya/meta/deps/meta-stlsoft/include -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -o CMakeFiles/meta-io.dir/mman-win32/mman.c.obj   -c /C/msys64/home/hmaurya/meta/src/io/mman-win32/mman.c",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/mman-win32/mman.c"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/io/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/compressor-test.dir/compressor_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/io/tools/compressor_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/io/tools/compressor_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-learn.dir/sgd.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/sgd.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/sgd.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/hinge.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/hinge.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/hinge.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/huber.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/huber.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/huber.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/least_squares.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/least_squares.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/least_squares.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/logistic.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/logistic.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/logistic.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/loss_function_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/loss_function_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/loss_function_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/modified_huber.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/modified_huber.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/modified_huber.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/perceptron.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/perceptron.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/perceptron.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/smooth_hinge.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/smooth_hinge.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/smooth_hinge.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/learn/loss",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-loss.dir/squared_hinge.cpp.obj -c /C/msys64/home/hmaurya/meta/src/learn/loss/squared_hinge.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/learn/loss/squared_hinge.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/language_model.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/language_model.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/language_model.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/token_list.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/token_list.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/token_list.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/diff.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/diff.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/diff.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/mph_language_model.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/mph_language_model.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/mph_language_model.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/static_probe_map.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/static_probe_map.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/static_probe_map.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-language-model.dir/sentence.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/sentence.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/sentence.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/sentence-likelihood.dir/sentence_likelihood.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/tools/sentence_likelihood.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/tools/sentence_likelihood.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/diff-test.dir/diff_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/tools/diff_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/tools/diff_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/build-mph-lm.dir/build_mph_lm.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/tools/build_mph_lm.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/tools/build_mph_lm.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/query-lm.dir/query_lm.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/tools/query_lm.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/tools/query_lm.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/lm/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-lm-analyzers.dir/diff_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/lm/analyzers/diff_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/lm/analyzers/diff_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/sr_parser.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/sr_parser.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/sr_parser.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/state.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/state.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/state.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/state_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/state_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/state_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/sequence_extractor.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/sequence_extractor.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/sequence_extractor.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/training_data.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/training_data.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/training_data.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/transition.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/transition.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/transition.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/transition_finder.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/transition_finder.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/transition_finder.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/transition_map.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/transition_map.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/transition_map.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser.dir/evalb.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/evalb.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/evalb.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-analyzers.dir/tree_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/tree_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/tree_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/branch_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/branch_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/branch_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/depth_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/depth_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/depth_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/featurizer_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/featurizer_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/featurizer_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/semi_skeleton_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/semi_skeleton_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/semi_skeleton_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/skeleton_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/skeleton_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/skeleton_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/subtree_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/subtree_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/subtree_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/analyzers/featurizers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-featurizers.dir/tag_featurizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/tag_featurizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/analyzers/featurizers/tag_featurizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/io",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-io.dir/ptb_reader.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/io/ptb_reader.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/io/ptb_reader.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/read-trees.dir/read_trees.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/tools/read_trees.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/tools/read_trees.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/parser-train.dir/parser_train.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/tools/parser_train.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/tools/parser_train.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/sr-parse.dir/sr_parse.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/tools/sr_parse.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/tools/sr_parse.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/parser-test.dir/parser_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/tools/parser_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/tools/parser_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-trees.dir/leaf_node.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/leaf_node.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/leaf_node.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-trees.dir/node.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/node.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/node.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-trees.dir/internal_node.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/internal_node.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/internal_node.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-parser-trees.dir/parse_tree.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/parse_tree.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/parse_tree.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/annotation_remover.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/annotation_remover.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/annotation_remover.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/binarizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/binarizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/binarizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/debinarizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/debinarizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/debinarizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/empty_remover.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/empty_remover.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/empty_remover.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/head_finder.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/head_finder.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/head_finder.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/leaf_node_finder.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/leaf_node_finder.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/leaf_node_finder.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/parser/trees/visitors",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-tree-visitors.dir/unary_chain_remover.cpp.obj -c /C/msys64/home/hmaurya/meta/src/parser/trees/visitors/unary_chain_remover.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/parser/trees/visitors/unary_chain_remover.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/regression",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-regression.dir/metrics.cpp.obj -c /C/msys64/home/hmaurya/meta/src/regression/metrics.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/regression/metrics.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/regression",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-regression.dir/regressor_factory.cpp.obj -c /C/msys64/home/hmaurya/meta/src/regression/regressor_factory.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/regression/regressor_factory.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/regression",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-regression.dir/models/regressor.cpp.obj -c /C/msys64/home/hmaurya/meta/src/regression/models/regressor.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/regression/models/regressor.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/regression",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-regression.dir/models/sgd.cpp.obj -c /C/msys64/home/hmaurya/meta/src/regression/models/sgd.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/regression/models/sgd.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/regression/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/regression.dir/regression.cpp.obj -c /C/msys64/home/hmaurya/meta/src/regression/tools/regression.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/regression/tools/regression.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence.dir/observation.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/observation.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/observation.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence.dir/sequence.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/sequence.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/sequence.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence.dir/sequence_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/sequence_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/sequence_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence.dir/trellis.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/trellis.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/trellis.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence.dir/io/ptb_parser.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/io/ptb_parser.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/io/ptb_parser.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-greedy-tagger.dir/perceptron.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/perceptron.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/perceptron.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/analyzers",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-sequence-analyzers.dir/ngram_pos_analyzer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/analyzers/ngram_pos_analyzer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/analyzers/ngram_pos_analyzer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-crf.dir/crf.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/crf.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/crf.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-crf.dir/scorer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/scorer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/scorer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-crf.dir/tagger.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/tagger.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/tagger.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-crf.dir/viterbi_scorer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/viterbi_scorer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/viterbi_scorer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/crf-train.dir/crf_train.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/tools/crf_train.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/tools/crf_train.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/crf-test.dir/crf_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/tools/crf_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/tools/crf_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/pos-tag.dir/pos_tag.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/tools/pos_tag.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/tools/pos_tag.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/crf/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/pos-tokenizer.dir/pos_tokenizer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/crf/tools/pos_tokenizer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/crf/tools/pos_tokenizer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/greedy-tagger-train.dir/greedy_tagger_train.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/tools/greedy_tagger_train.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/tools/greedy_tagger_train.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/sequence/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/greedy-tagger-test.dir/greedy_tagger_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/sequence/tools/greedy_tagger_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/sequence/tools/greedy_tagger_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/stats",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-stats.dir/running_stats.cpp.obj -c /C/msys64/home/hmaurya/meta/src/stats/running_stats.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/stats/running_stats.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/succinct",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-succinct.dir/compressed_vector.cpp.obj -c /C/msys64/home/hmaurya/meta/src/succinct/compressed_vector.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/succinct/compressed_vector.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/succinct",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-succinct.dir/bit_vector.cpp.obj -c /C/msys64/home/hmaurya/meta/src/succinct/bit_vector.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/succinct/bit_vector.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/succinct",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-succinct.dir/sarray.cpp.obj -c /C/msys64/home/hmaurya/meta/src/succinct/sarray.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/succinct/sarray.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/profile.dir/profile.cpp.obj -c /C/msys64/home/hmaurya/meta/src/tools/profile.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/tools/profile.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/mph-vocab.dir/mph_vocab.cpp.obj -c /C/msys64/home/hmaurya/meta/src/tools/mph_vocab.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/tools/mph_vocab.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/top-k.dir/top_k.cpp.obj -c /C/msys64/home/hmaurya/meta/src/tools/top_k.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/tools/top_k.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-topics.dir/lda_cvb.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/lda_cvb.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/lda_cvb.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-topics.dir/lda_gibbs.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/lda_gibbs.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/lda_gibbs.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-topics.dir/lda_model.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/lda_model.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/lda_model.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-topics.dir/lda_scvb.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/lda_scvb.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/lda_scvb.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-topics.dir/parallel_lda_gibbs.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/parallel_lda_gibbs.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/parallel_lda_gibbs.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/lda.dir/lda.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/tools/lda.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/tools/lda.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/lda-topics.dir/lda_topics.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/tools/lda_topics.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/tools/lda_topics.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/topics/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/topic-corpus.dir/topic_corpus.cpp.obj -c /C/msys64/home/hmaurya/meta/src/topics/tools/topic_corpus.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/topics/tools/topic_corpus.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/utf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/src/utf/SYSTEM -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-utf.dir/segmenter.cpp.obj -c /C/msys64/home/hmaurya/meta/src/utf/segmenter.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/utf/segmenter.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/utf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/src/utf/SYSTEM -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-utf.dir/transformer.cpp.obj -c /C/msys64/home/hmaurya/meta/src/utf/transformer.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/utf/transformer.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/utf",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/src/utf/SYSTEM -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-utf.dir/utf.cpp.obj -c /C/msys64/home/hmaurya/meta/src/utf/utf.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/utf/utf.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/utf/tools",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/utf8-test.dir/utf8_test.cpp.obj -c /C/msys64/home/hmaurya/meta/src/utf/tools/utf8_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/utf/tools/utf8_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/src/util",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14 -o CMakeFiles/meta-util.dir/progress.cpp.obj -c /C/msys64/home/hmaurya/meta/src/util/progress.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/src/util/progress.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/analyzer_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/analyzer_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/analyzer_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/binary_io_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/binary_io_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/binary_io_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/bit_vector_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/bit_vector_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/bit_vector_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/classifier_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/classifier_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/classifier_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/compressed_vector_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/compressed_vector_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/compressed_vector_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/darray_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/darray_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/darray_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/feature_selection_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/feature_selection_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/feature_selection_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/filesystem_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/filesystem_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/filesystem_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/forward_index_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/forward_index_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/forward_index_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/graph_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/graph_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/graph_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/hashing_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/hashing_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/hashing_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/inverted_index_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/inverted_index_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/inverted_index_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/ir_eval_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/ir_eval_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/ir_eval_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/language_model_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/language_model_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/language_model_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/libsvm_parser_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/libsvm_parser_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/libsvm_parser_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/metadata_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/metadata_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/metadata_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/parallel_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/parallel_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/parallel_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/parser_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/parser_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/parser_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/perfect_hash_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/perfect_hash_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/perfect_hash_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/ranker_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/ranker_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/ranker_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/regression_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/regression_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/regression_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/sarray_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/sarray_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/sarray_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/stemmer_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/stemmer_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/stemmer_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/string_list_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/string_list_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/string_list_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/tokenizer_filter_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/tokenizer_filter_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/tokenizer_filter_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/topics_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/topics_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/topics_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/unit_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/unit_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/unit_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/vector_math_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/vector_math_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/vector_math_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/tests",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/src/../deps/bandit -I/C/msys64/home/hmaurya/meta/include -isystem /C/msys64/mingw64/include -I/C/msys64/home/hmaurya/meta/build -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include  -O3 -DNDEBUG   -Wall -Wextra -pedantic -std=c++14  -Wno-sign-conversion -Wno-conversion -o CMakeFiles/unit-test.dir/vocabulary_map_test.cpp.obj -c /C/msys64/home/hmaurya/meta/tests/vocabulary_map_test.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/tests/vocabulary_map_test.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/deps/cpptoml",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include   -Wall -pedantic -O3 -DNDEBUG   -std=c++11 -o CMakeFiles/cpptoml-build.dir/build_toml.cpp.obj -c /C/msys64/home/hmaurya/meta/deps/cpptoml/build_toml.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/deps/cpptoml/build_toml.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/deps/cpptoml",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include   -Wall -pedantic -O3 -DNDEBUG   -std=c++11 -o CMakeFiles/parse.dir/parse.cpp.obj -c /C/msys64/home/hmaurya/meta/deps/cpptoml/parse.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/deps/cpptoml/parse.cpp"
+},
+{
+  "directory": "C:/msys64/home/hmaurya/meta/build/deps/cpptoml",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -DCPPTOML_HAS_STD_PUT_TIME=1 -DCPPTOML_HAS_STD_REGEX=1 -I/C/msys64/home/hmaurya/meta/deps/cpptoml/include   -Wall -pedantic -O3 -DNDEBUG   -std=c++11 -o CMakeFiles/cpptoml-parser.dir/parse_stdin.cpp.obj -c /C/msys64/home/hmaurya/meta/deps/cpptoml/parse_stdin.cpp",
+  "file": "C:/msys64/home/hmaurya/meta/deps/cpptoml/parse_stdin.cpp"
+}
+]

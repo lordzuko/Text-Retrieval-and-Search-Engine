@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-corpus.a  CMakeFiles/meta-corpus.dir/corpus.cpp.obj CMakeFiles/meta-corpus.dir/corpus_factory.cpp.obj CMakeFiles/meta-corpus.dir/document.cpp.obj CMakeFiles/meta-corpus.dir/file_corpus.cpp.obj CMakeFiles/meta-corpus.dir/libsvm_corpus.cpp.obj CMakeFiles/meta-corpus.dir/line_corpus.cpp.obj CMakeFiles/meta-corpus.dir/gz_corpus.cpp.obj CMakeFiles/meta-corpus.dir/metadata.cpp.obj CMakeFiles/meta-corpus.dir/metadata_parser.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-corpus.a

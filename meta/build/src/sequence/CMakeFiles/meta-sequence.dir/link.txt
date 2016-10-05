@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-sequence.a  CMakeFiles/meta-sequence.dir/observation.cpp.obj CMakeFiles/meta-sequence.dir/sequence.cpp.obj CMakeFiles/meta-sequence.dir/sequence_analyzer.cpp.obj CMakeFiles/meta-sequence.dir/trellis.cpp.obj CMakeFiles/meta-sequence.dir/io/ptb_parser.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-sequence.a

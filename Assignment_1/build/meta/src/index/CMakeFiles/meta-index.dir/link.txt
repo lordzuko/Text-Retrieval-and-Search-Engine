@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-index.a  CMakeFiles/meta-index.dir/disk_index.cpp.obj CMakeFiles/meta-index.dir/forward_index.cpp.obj CMakeFiles/meta-index.dir/inverted_index.cpp.obj CMakeFiles/meta-index.dir/metadata_file.cpp.obj CMakeFiles/meta-index.dir/metadata_writer.cpp.obj CMakeFiles/meta-index.dir/string_list.cpp.obj CMakeFiles/meta-index.dir/string_list_writer.cpp.obj CMakeFiles/meta-index.dir/vocabulary_map.cpp.obj CMakeFiles/meta-index.dir/vocabulary_map_writer.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-index.a

@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-eval.a  CMakeFiles/meta-eval.dir/ir_eval.cpp.obj CMakeFiles/meta-eval.dir/rank_correlation.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-eval.a

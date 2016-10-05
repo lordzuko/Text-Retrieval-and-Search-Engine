@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/meta/stats/running_stats.h
+cstddef
+-
+meta/config.h
+../include/meta/stats/meta/config.h
+
+C:/msys64/home/hmaurya/meta/src/stats/running_stats.cpp
+cmath
+-
+meta/stats/running_stats.h
+C:/msys64/home/hmaurya/meta/src/stats/meta/stats/running_stats.h
+
+meta/config.h
+meta/kludges.h
+meta/meta/kludges.h
+
+meta/kludges.h
+

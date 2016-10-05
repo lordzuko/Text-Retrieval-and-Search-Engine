@@ -1,0 +1,1 @@
+cmd='C:/msys64/mingw64/bin/cmake.exe;-DCMAKE_BUILD_TYPE=Release;-CC:/msys64/home/hmaurya/meta/build/src/classify/liblinear-prefix/tmp/liblinear-cache-$<CONFIG>.cmake;-GMSYS Makefiles;C:/msys64/home/hmaurya/meta/src/../deps/libsvm-modules/liblinear'

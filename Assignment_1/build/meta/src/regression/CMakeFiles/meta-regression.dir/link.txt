@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-regression.a  CMakeFiles/meta-regression.dir/metrics.cpp.obj CMakeFiles/meta-regression.dir/regressor_factory.cpp.obj CMakeFiles/meta-regression.dir/models/regressor.cpp.obj CMakeFiles/meta-regression.dir/models/sgd.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-regression.a

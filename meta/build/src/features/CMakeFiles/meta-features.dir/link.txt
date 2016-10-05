@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-features.a  CMakeFiles/meta-features.dir/feature_selector.cpp.obj CMakeFiles/meta-features.dir/selector_factory.cpp.obj CMakeFiles/meta-features.dir/chi_square.cpp.obj CMakeFiles/meta-features.dir/odds_ratio.cpp.obj CMakeFiles/meta-features.dir/correlation_coefficient.cpp.obj CMakeFiles/meta-features.dir/information_gain.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-features.a

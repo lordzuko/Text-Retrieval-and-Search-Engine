@@ -1,0 +1,13 @@
+# Target labels
+ housing
+# Source files and their labels
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/housing
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/housing.rule
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/housing-complete.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-install.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-mkdir.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-download.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-update.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-patch.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-configure.rule
+C:/msys64/home/hmaurya/meta/build/tests/housing-prefix/src/housing-stamp/housing-build.rule

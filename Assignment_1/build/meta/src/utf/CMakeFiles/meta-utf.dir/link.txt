@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-utf.a  CMakeFiles/meta-utf.dir/segmenter.cpp.obj CMakeFiles/meta-utf.dir/transformer.cpp.obj CMakeFiles/meta-utf.dir/utf.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-utf.a

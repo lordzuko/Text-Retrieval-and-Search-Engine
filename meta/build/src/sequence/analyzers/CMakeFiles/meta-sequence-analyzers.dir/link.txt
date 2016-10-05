@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-sequence-analyzers.a  CMakeFiles/meta-sequence-analyzers.dir/ngram_pos_analyzer.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-sequence-analyzers.a

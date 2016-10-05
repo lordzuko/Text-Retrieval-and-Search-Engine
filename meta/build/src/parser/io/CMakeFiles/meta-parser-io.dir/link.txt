@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-parser-io.a  CMakeFiles/meta-parser-io.dir/ptb_reader.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-parser-io.a

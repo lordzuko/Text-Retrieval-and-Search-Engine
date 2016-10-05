@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../../../lib/libmeta-tree-visitors.a  CMakeFiles/meta-tree-visitors.dir/annotation_remover.cpp.obj CMakeFiles/meta-tree-visitors.dir/binarizer.cpp.obj CMakeFiles/meta-tree-visitors.dir/debinarizer.cpp.obj CMakeFiles/meta-tree-visitors.dir/empty_remover.cpp.obj CMakeFiles/meta-tree-visitors.dir/head_finder.cpp.obj CMakeFiles/meta-tree-visitors.dir/leaf_node_finder.cpp.obj CMakeFiles/meta-tree-visitors.dir/unary_chain_remover.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../../../lib/libmeta-tree-visitors.a

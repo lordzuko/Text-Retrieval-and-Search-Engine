@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-io.a  CMakeFiles/meta-io.dir/filesystem.cpp.obj CMakeFiles/meta-io.dir/gzstream.cpp.obj CMakeFiles/meta-io.dir/libsvm_parser.cpp.obj CMakeFiles/meta-io.dir/mmap_file.cpp.obj CMakeFiles/meta-io.dir/mman-win32/mman.c.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-io.a

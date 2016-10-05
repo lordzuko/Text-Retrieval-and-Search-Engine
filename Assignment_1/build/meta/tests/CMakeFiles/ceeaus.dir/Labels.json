@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/ceeaus"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/ceeaus.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/ceeaus-complete.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-install.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-mkdir.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-download.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-update.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-patch.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-configure.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ceeaus"
+		],
+		"name" : "ceeaus"
+	}
+}

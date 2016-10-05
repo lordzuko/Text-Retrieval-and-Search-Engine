@@ -1,0 +1,5 @@
+svm-predict
+svm-scale
+svm-train
+*.o
+build/

@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-succinct.a  CMakeFiles/meta-succinct.dir/compressed_vector.cpp.obj CMakeFiles/meta-succinct.dir/bit_vector.cpp.obj CMakeFiles/meta-succinct.dir/sarray.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-succinct.a

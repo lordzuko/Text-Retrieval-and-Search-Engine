@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/breast-cancer"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/breast-cancer.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/CMakeFiles/breast-cancer-complete.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-install.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-mkdir.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-download.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-update.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-patch.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-configure.rule"
+		},
+		{
+			"file" : "C:/msys64/home/hmaurya/Assignment_1/build/meta/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"breast-cancer"
+		],
+		"name" : "breast-cancer"
+	}
+}

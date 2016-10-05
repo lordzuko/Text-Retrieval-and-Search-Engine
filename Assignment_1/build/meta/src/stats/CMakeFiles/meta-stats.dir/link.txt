@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-stats.a  CMakeFiles/meta-stats.dir/running_stats.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-stats.a

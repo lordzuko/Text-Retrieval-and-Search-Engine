@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/meta/io/mman-win32/mman.h
+_mingw.h
+-
+sys/types.h
+-
+
+C:/msys64/home/hmaurya/meta/src/io/mman-win32/mman.c
+windows.h
+-
+errno.h
+-
+io.h
+-
+meta/io/mman-win32/mman.h
+C:/msys64/home/hmaurya/meta/src/io/mman-win32/meta/io/mman-win32/mman.h
+

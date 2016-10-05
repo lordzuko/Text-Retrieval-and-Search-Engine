@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-tokenizers.a  CMakeFiles/meta-tokenizers.dir/character_tokenizer.cpp.obj CMakeFiles/meta-tokenizers.dir/icu_tokenizer.cpp.obj CMakeFiles/meta-tokenizers.dir/whitespace_tokenizer.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-tokenizers.a

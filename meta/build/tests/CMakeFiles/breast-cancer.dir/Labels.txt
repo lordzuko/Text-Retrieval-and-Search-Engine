@@ -1,0 +1,13 @@
+# Target labels
+ breast-cancer
+# Source files and their labels
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/breast-cancer
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/breast-cancer.rule
+C:/msys64/home/hmaurya/meta/build/tests/CMakeFiles/breast-cancer-complete.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-install.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-mkdir.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-download.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-update.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-patch.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-configure.rule
+C:/msys64/home/hmaurya/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-build.rule

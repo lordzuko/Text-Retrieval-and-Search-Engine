@@ -1,0 +1,13 @@
+# Target labels
+ liblinear
+# Source files and their labels
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/CMakeFiles/liblinear
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/CMakeFiles/liblinear.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/CMakeFiles/liblinear-complete.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-install.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-mkdir.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-download.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-update.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-patch.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-configure.rule
+C:/msys64/home/hmaurya/Assignment_1/build/meta/src/classify/liblinear-prefix/src/liblinear-stamp/liblinear-build.rule

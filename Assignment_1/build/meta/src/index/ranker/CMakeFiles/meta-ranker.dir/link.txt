@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../../lib/libmeta-ranker.a  CMakeFiles/meta-ranker.dir/absolute_discount.cpp.obj CMakeFiles/meta-ranker.dir/dirichlet_prior.cpp.obj CMakeFiles/meta-ranker.dir/jelinek_mercer.cpp.obj CMakeFiles/meta-ranker.dir/lm_ranker.cpp.obj CMakeFiles/meta-ranker.dir/okapi_bm25.cpp.obj CMakeFiles/meta-ranker.dir/pivoted_length.cpp.obj CMakeFiles/meta-ranker.dir/ranker.cpp.obj CMakeFiles/meta-ranker.dir/ranker_factory.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../../lib/libmeta-ranker.a

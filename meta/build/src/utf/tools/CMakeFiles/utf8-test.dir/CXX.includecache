@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/meta/utf/utf.h
+array
+-
+cstdint
+-
+functional
+-
+string
+-
+meta/config.h
+../include/meta/utf/meta/config.h
+
+C:/msys64/home/hmaurya/meta/src/utf/tools/utf8_test.cpp
+fstream
+-
+iostream
+-
+meta/utf/utf.h
+C:/msys64/home/hmaurya/meta/src/utf/tools/meta/utf/utf.h
+
+meta/config.h
+meta/kludges.h
+meta/meta/kludges.h
+
+meta/kludges.h
+

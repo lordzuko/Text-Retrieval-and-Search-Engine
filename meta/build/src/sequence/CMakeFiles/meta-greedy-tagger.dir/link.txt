@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-greedy-tagger.a  CMakeFiles/meta-greedy-tagger.dir/perceptron.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-greedy-tagger.a

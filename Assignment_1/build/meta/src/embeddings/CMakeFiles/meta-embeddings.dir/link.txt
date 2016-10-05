@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../../lib/libmeta-embeddings.a  CMakeFiles/meta-embeddings.dir/word_embeddings.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../../lib/libmeta-embeddings.a

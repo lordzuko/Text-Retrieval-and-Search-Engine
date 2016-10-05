@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc ../../lib/libmeta-language-model.a  CMakeFiles/meta-language-model.dir/language_model.cpp.obj CMakeFiles/meta-language-model.dir/token_list.cpp.obj CMakeFiles/meta-language-model.dir/diff.cpp.obj CMakeFiles/meta-language-model.dir/mph_language_model.cpp.obj CMakeFiles/meta-language-model.dir/static_probe_map.cpp.obj CMakeFiles/meta-language-model.dir/sentence.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe ../../lib/libmeta-language-model.a
