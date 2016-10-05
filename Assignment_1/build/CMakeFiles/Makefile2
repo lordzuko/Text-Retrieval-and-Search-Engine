@@ -63,19 +63,19 @@ CMAKE_BINARY_DIR = /C/msys64/home/hmaurya/Assignment_1/build
 # Target rules for target CMakeFiles/analyze.dir
 
 # All Build rule for target.
-CMakeFiles/analyze.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/analyze.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 CMakeFiles/analyze.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+CMakeFiles/analyze.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/analyze.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-CMakeFiles/analyze.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/analyze.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+CMakeFiles/analyze.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/analyze.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 CMakeFiles/analyze.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 CMakeFiles/analyze.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-CMakeFiles/analyze.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 CMakeFiles/analyze.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-CMakeFiles/analyze.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
+CMakeFiles/analyze.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 CMakeFiles/analyze.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+CMakeFiles/analyze.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 CMakeFiles/analyze.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 CMakeFiles/analyze.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f CMakeFiles/analyze.dir/build.make CMakeFiles/analyze.dir/depend
@@ -114,23 +114,23 @@ clean: CMakeFiles/analyze.dir/clean
 # Target rules for target CMakeFiles/ranking-experiment.dir
 
 # All Build rule for target.
-CMakeFiles/ranking-experiment.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 CMakeFiles/ranking-experiment.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -170,23 +170,23 @@ clean: CMakeFiles/ranking-experiment.dir/clean
 # Target rules for target CMakeFiles/relevance-judgements.dir
 
 # All Build rule for target.
-CMakeFiles/relevance-judgements.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 CMakeFiles/relevance-judgements.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -381,8 +381,8 @@ meta/src/analyzers/preinstall: meta/src/analyzers/tools/preinstall
 # Target rules for target meta/src/analyzers/CMakeFiles/meta-analyzers.dir
 
 # All Build rule for target.
-meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -539,9 +539,9 @@ meta/src/analyzers/tools/preinstall:
 # Target rules for target meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir
 
 # All Build rule for target.
-meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/analyzers/tools/CMakeFiles/tokenize-test.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -668,17 +668,17 @@ clean: meta/src/classify/CMakeFiles/libsvm.dir/clean
 # Target rules for target meta/src/classify/CMakeFiles/meta-classify.dir
 
 # All Build rule for target.
-meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/classify/CMakeFiles/libsvm.dir/all
-meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/classify/CMakeFiles/liblinear.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/classify/CMakeFiles/liblinear.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/src/classify/CMakeFiles/meta-classify.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -784,27 +784,27 @@ meta/src/classify/tools/preinstall:
 # Target rules for target meta/src/classify/tools/CMakeFiles/classify.dir
 
 # All Build rule for target.
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/classify/tools/CMakeFiles/classify.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -839,27 +839,27 @@ clean: meta/src/classify/tools/CMakeFiles/classify.dir/clean
 # Target rules for target meta/src/classify/tools/CMakeFiles/online-classify.dir
 
 # All Build rule for target.
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/classify/tools/CMakeFiles/online-classify.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1079,9 +1079,9 @@ meta/src/embeddings/tools/preinstall:
 # Target rules for target meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir
 
 # All Build rule for target.
-meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-vocab.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -1183,9 +1183,9 @@ clean: meta/src/embeddings/tools/CMakeFiles/meta-to-glove.dir/clean
 # Target rules for target meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir
 
 # All Build rule for target.
-meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/embeddings/tools/CMakeFiles/embedding-coocur.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -1274,12 +1274,12 @@ meta/src/features/preinstall: meta/src/features/tools/preinstall
 # Target rules for target meta/src/features/CMakeFiles/meta-features.dir
 
 # All Build rule for target.
-meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
 meta/src/features/CMakeFiles/meta-features.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -1333,23 +1333,23 @@ meta/src/features/tools/preinstall:
 # Target rules for target meta/src/features/tools/CMakeFiles/feature-summary.dir
 
 # All Build rule for target.
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/features/CMakeFiles/meta-features.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
 meta/src/features/tools/CMakeFiles/feature-summary.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -1514,9 +1514,9 @@ meta/src/index/preinstall: meta/src/index/tools/preinstall
 # Target rules for target meta/src/index/CMakeFiles/meta-index.dir
 
 # All Build rule for target.
-meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/CMakeFiles/meta-index.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
@@ -1621,12 +1621,12 @@ meta/src/index/ranker/preinstall:
 # Target rules for target meta/src/index/ranker/CMakeFiles/meta-ranker.dir
 
 # All Build rule for target.
-meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1691,23 +1691,23 @@ meta/src/index/tools/preinstall:
 # Target rules for target meta/src/index/tools/CMakeFiles/interactive-search.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/interactive-search.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1742,22 +1742,22 @@ clean: meta/src/index/tools/CMakeFiles/interactive-search.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/index.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/index.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1792,23 +1792,23 @@ clean: meta/src/index/tools/CMakeFiles/index.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/query-runner.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/query-runner.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1843,12 +1843,12 @@ clean: meta/src/index/tools/CMakeFiles/query-runner.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/search-vocab.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/search-vocab.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1883,12 +1883,12 @@ clean: meta/src/index/tools/CMakeFiles/search-vocab.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/print-vocab.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/print-vocab.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1923,23 +1923,23 @@ clean: meta/src/index/tools/CMakeFiles/print-vocab.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/search.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/search.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -1974,12 +1974,12 @@ clean: meta/src/index/tools/CMakeFiles/search.dir/clean
 # Target rules for target meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir
 
 # All Build rule for target.
-meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/index/tools/CMakeFiles/forward-to-libsvm.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -2244,9 +2244,9 @@ meta/src/lm/preinstall: meta/src/lm/analyzers/preinstall
 # Target rules for target meta/src/lm/CMakeFiles/meta-language-model.dir
 
 # All Build rule for target.
-meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/CMakeFiles/meta-language-model.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
@@ -2307,12 +2307,12 @@ meta/src/lm/tools/preinstall:
 # Target rules for target meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir
 
 # All Build rule for target.
-meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
 meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
@@ -2349,12 +2349,12 @@ clean: meta/src/lm/tools/CMakeFiles/sentence-likelihood.dir/clean
 # Target rules for target meta/src/lm/tools/CMakeFiles/diff-test.dir
 
 # All Build rule for target.
-meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
 meta/src/lm/tools/CMakeFiles/diff-test.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
@@ -2391,9 +2391,9 @@ clean: meta/src/lm/tools/CMakeFiles/diff-test.dir/clean
 # Target rules for target meta/src/lm/tools/CMakeFiles/build-mph-lm.dir
 
 # All Build rule for target.
-meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
@@ -2431,9 +2431,9 @@ clean: meta/src/lm/tools/CMakeFiles/build-mph-lm.dir/clean
 # Target rules for target meta/src/lm/tools/CMakeFiles/query-lm.dir
 
 # All Build rule for target.
-meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/tools/CMakeFiles/query-lm.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
@@ -2489,9 +2489,9 @@ meta/src/lm/analyzers/preinstall:
 # Target rules for target meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir
 
 # All Build rule for target.
-meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/lm/analyzers/CMakeFiles/meta-lm-analyzers.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
@@ -2560,8 +2560,8 @@ meta/src/parser/preinstall: meta/src/parser/trees/preinstall
 # All Build rule for target.
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
+meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/CMakeFiles/meta-parser.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -2616,18 +2616,18 @@ meta/src/parser/analyzers/preinstall: meta/src/parser/analyzers/featurizers/prei
 # Target rules for target meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir
 
 # All Build rule for target.
-meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
-meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
+meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/build.make meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/depend
@@ -2792,8 +2792,8 @@ meta/src/parser/tools/preinstall:
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
+meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/tools/CMakeFiles/read-trees.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -2831,8 +2831,8 @@ clean: meta/src/parser/tools/CMakeFiles/read-trees.dir/clean
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
+meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/tools/CMakeFiles/parser-train.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -2867,17 +2867,17 @@ clean: meta/src/parser/tools/CMakeFiles/parser-train.dir/clean
 # Target rules for target meta/src/parser/tools/CMakeFiles/sr-parse.dir
 
 # All Build rule for target.
-meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
+meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/tools/CMakeFiles/sr-parse.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/parser/tools/CMakeFiles/sr-parse.dir/build.make meta/src/parser/tools/CMakeFiles/sr-parse.dir/depend
@@ -2914,8 +2914,8 @@ clean: meta/src/parser/tools/CMakeFiles/sr-parse.dir/clean
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
+meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/parser/tools/CMakeFiles/parser-test.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -3125,25 +3125,25 @@ meta/src/regression/tools/preinstall:
 # Target rules for target meta/src/regression/tools/CMakeFiles/regression.dir
 
 # All Build rule for target.
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/analyzers/CMakeFiles/meta-parser-analyzers.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/analyzers/featurizers/CMakeFiles/meta-parser-featurizers.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
-meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/regression/CMakeFiles/meta-regression.dir/all
+meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/sequence/crf/CMakeFiles/meta-crf.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/stats/CMakeFiles/meta-stats.dir/all
 meta/src/regression/tools/CMakeFiles/regression.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
@@ -3294,9 +3294,9 @@ meta/src/sequence/analyzers/preinstall:
 # Target rules for target meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir
 
 # All Build rule for target.
-meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/sequence/analyzers/CMakeFiles/meta-sequence-analyzers.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
@@ -3449,16 +3449,16 @@ clean: meta/src/sequence/crf/tools/CMakeFiles/crf-train.dir/clean
 # Target rules for target meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir
 
 # All Build rule for target.
-meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/crf-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
@@ -3533,9 +3533,9 @@ clean: meta/src/sequence/crf/tools/CMakeFiles/pos-tag.dir/clean
 # Target rules for target meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir
 
 # All Build rule for target.
-meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/sequence/crf/tools/CMakeFiles/pos-tokenizer.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
@@ -3593,20 +3593,20 @@ meta/src/sequence/tools/preinstall:
 # Target rules for target meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir
 
 # All Build rule for target.
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/build.make meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/depend
@@ -3640,20 +3640,20 @@ clean: meta/src/sequence/tools/CMakeFiles/greedy-tagger-train.dir/clean
 # Target rules for target meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir
 
 # All Build rule for target.
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
-meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/build.make meta/src/sequence/tools/CMakeFiles/greedy-tagger-test.dir/depend
@@ -3810,19 +3810,19 @@ meta/src/tools/preinstall:
 # Target rules for target meta/src/tools/CMakeFiles/profile.dir
 
 # All Build rule for target.
-meta/src/tools/CMakeFiles/profile.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/tools/CMakeFiles/profile.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/tools/CMakeFiles/profile.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/tools/CMakeFiles/profile.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/src/tools/CMakeFiles/profile.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/src/tools/CMakeFiles/profile.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
+meta/src/tools/CMakeFiles/profile.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/sequence/CMakeFiles/meta-greedy-tagger.dir/all
+meta/src/tools/CMakeFiles/profile.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/tools/CMakeFiles/profile.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/tools/CMakeFiles/profile.dir/build.make meta/src/tools/CMakeFiles/profile.dir/depend
@@ -3890,12 +3890,12 @@ clean: meta/src/tools/CMakeFiles/mph-vocab.dir/clean
 # Target rules for target meta/src/tools/CMakeFiles/top-k.dir
 
 # All Build rule for target.
-meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/tools/CMakeFiles/top-k.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -3950,12 +3950,12 @@ meta/src/topics/preinstall: meta/src/topics/tools/preinstall
 # Target rules for target meta/src/topics/CMakeFiles/meta-topics.dir
 
 # All Build rule for target.
-meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/topics/CMakeFiles/meta-topics.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -4012,15 +4012,15 @@ meta/src/topics/tools/preinstall:
 # Target rules for target meta/src/topics/tools/CMakeFiles/lda.dir
 
 # All Build rule for target.
-meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
-meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
+meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
 meta/src/topics/tools/CMakeFiles/lda.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/topics/tools/CMakeFiles/lda.dir/build.make meta/src/topics/tools/CMakeFiles/lda.dir/depend
 	$(MAKE) -f meta/src/topics/tools/CMakeFiles/lda.dir/build.make meta/src/topics/tools/CMakeFiles/lda.dir/build
@@ -4053,12 +4053,12 @@ clean: meta/src/topics/tools/CMakeFiles/lda.dir/clean
 # Target rules for target meta/src/topics/tools/CMakeFiles/lda-topics.dir
 
 # All Build rule for target.
-meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
 meta/src/topics/tools/CMakeFiles/lda-topics.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
@@ -4093,15 +4093,15 @@ clean: meta/src/topics/tools/CMakeFiles/lda-topics.dir/clean
 # Target rules for target meta/src/topics/tools/CMakeFiles/topic-corpus.dir
 
 # All Build rule for target.
-meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
+meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
-meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
+meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
-meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
+meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
 meta/src/topics/tools/CMakeFiles/topic-corpus.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
 	$(MAKE) -f meta/src/topics/tools/CMakeFiles/topic-corpus.dir/build.make meta/src/topics/tools/CMakeFiles/topic-corpus.dir/depend
 	$(MAKE) -f meta/src/topics/tools/CMakeFiles/topic-corpus.dir/build.make meta/src/topics/tools/CMakeFiles/topic-corpus.dir/build
@@ -4406,33 +4406,33 @@ clean: meta/tests/CMakeFiles/breast-cancer.dir/clean
 # Target rules for target meta/tests/CMakeFiles/unit-test.dir
 
 # All Build rule for target.
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/analyzers/CMakeFiles/meta-analyzers.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/analyzers/filters/CMakeFiles/meta-filters.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/analyzers/tokenizers/CMakeFiles/meta-tokenizers.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/classify/kernel/CMakeFiles/meta-kernel.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/classify/CMakeFiles/meta-classify.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/corpus/CMakeFiles/meta-corpus.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/features/CMakeFiles/meta-features.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/index/CMakeFiles/meta-index.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/index/eval/CMakeFiles/meta-eval.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/io/CMakeFiles/meta-io.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/index/ranker/CMakeFiles/meta-ranker.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/learn/CMakeFiles/meta-learn.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/learn/loss/CMakeFiles/meta-loss.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/lm/CMakeFiles/meta-language-model.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/parser/CMakeFiles/meta-parser.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/parser/io/CMakeFiles/meta-parser-io.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/parser/trees/visitors/CMakeFiles/meta-tree-visitors.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/parser/trees/CMakeFiles/meta-parser-trees.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/regression/CMakeFiles/meta-regression.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/stats/CMakeFiles/meta-stats.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/sequence/CMakeFiles/meta-sequence.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/succinct/CMakeFiles/meta-succinct.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/stats/CMakeFiles/meta-stats.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/utf/CMakeFiles/meta-utf.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/tests/CMakeFiles/breast-cancer.dir/all
-meta/tests/CMakeFiles/unit-test.dir/all: meta/tests/CMakeFiles/ceeaus.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/src/topics/CMakeFiles/meta-topics.dir/all
 meta/tests/CMakeFiles/unit-test.dir/all: meta/src/util/CMakeFiles/meta-util.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/tests/CMakeFiles/ceeaus.dir/all
+meta/tests/CMakeFiles/unit-test.dir/all: meta/tests/CMakeFiles/breast-cancer.dir/all
 	$(MAKE) -f meta/tests/CMakeFiles/unit-test.dir/build.make meta/tests/CMakeFiles/unit-test.dir/depend
 	$(MAKE) -f meta/tests/CMakeFiles/unit-test.dir/build.make meta/tests/CMakeFiles/unit-test.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/C/msys64/home/hmaurya/Assignment_1/build/CMakeFiles --progress-num=91,92,93,94,95,96,97,98 "Built target unit-test"

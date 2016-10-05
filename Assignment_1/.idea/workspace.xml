@@ -8,17 +8,17 @@
       <config projectName="Project" targetName="corpus-gen" />
       <config projectName="Project" targetName="meta-classify" />
       <config projectName="Project" targetName="utf8-test" />
-      <config projectName="Project" targetName="meta-corpus" />
       <config projectName="Project" targetName="feature-summary" />
+      <config projectName="Project" targetName="meta-corpus" />
       <config projectName="Project" targetName="unit-test" />
       <config projectName="Project" targetName="meta-sequence" />
       <config projectName="Project" targetName="meta-index" />
       <config projectName="Project" targetName="meta-parser-trees" />
       <config projectName="Project" targetName="meta-tokenizers" />
-      <config projectName="Project" targetName="embedding-vocab" />
       <config projectName="Project" targetName="mph-vocab" />
-      <config projectName="Project" targetName="online-classify" />
+      <config projectName="Project" targetName="embedding-vocab" />
       <config projectName="Project" targetName="crf-train" />
+      <config projectName="Project" targetName="online-classify" />
       <config projectName="Project" targetName="forward-to-libsvm" />
       <config projectName="Project" targetName="interactive-search" />
       <config projectName="Project" targetName="meta-succinct" />
@@ -31,17 +31,17 @@
       <config projectName="Project" targetName="meta-topics" />
       <config projectName="Project" targetName="topic-corpus" />
       <config projectName="Project" targetName="glove" />
-      <config projectName="Project" targetName="classify" />
       <config projectName="Project" targetName="profile" />
-      <config projectName="Project" targetName="query-runner" />
+      <config projectName="Project" targetName="classify" />
       <config projectName="Project" targetName="meta-lm-analyzers" />
+      <config projectName="Project" targetName="query-runner" />
       <config projectName="Project" targetName="index" />
       <config projectName="Project" targetName="lda-topics" />
       <config projectName="Project" targetName="analyze" />
       <config projectName="Project" targetName="meta-parser-io" />
       <config projectName="Project" targetName="meta-loss" />
-      <config projectName="Project" targetName="meta-to-glove" />
       <config projectName="Project" targetName="ceeaus" />
+      <config projectName="Project" targetName="meta-to-glove" />
       <config projectName="Project" targetName="parser-test" />
       <config projectName="Project" targetName="crf-test" />
       <config projectName="Project" targetName="meta-ranker" />
@@ -50,12 +50,12 @@
       <config projectName="Project" targetName="greedy-tagger-test" />
       <config projectName="Project" targetName="print-vocab" />
       <config projectName="Project" targetName="meta-stats" />
-      <config projectName="Project" targetName="embedding-coocur" />
       <config projectName="Project" targetName="meta-sequence-analyzers" />
-      <config projectName="Project" targetName="sr-parse" />
+      <config projectName="Project" targetName="embedding-coocur" />
       <config projectName="Project" targetName="pos-tokenizer" />
-      <config projectName="Project" targetName="interactive-embeddings" />
+      <config projectName="Project" targetName="sr-parse" />
       <config projectName="Project" targetName="meta-crf" />
+      <config projectName="Project" targetName="interactive-embeddings" />
       <config projectName="Project" targetName="meta-language-model" />
       <config projectName="Project" targetName="graph-test" />
       <config projectName="Project" targetName="meta-filters" />
@@ -66,8 +66,8 @@
       <config projectName="Project" targetName="greedy-tagger-train" />
       <config projectName="Project" targetName="compressor-test" />
       <config projectName="Project" targetName="regression" />
-      <config projectName="Project" targetName="diff-test" />
       <config projectName="Project" targetName="parser-train" />
+      <config projectName="Project" targetName="diff-test" />
       <config projectName="Project" targetName="meta-parser-analyzers" />
       <config projectName="Project" targetName="liblinear" />
       <config projectName="Project" targetName="housing" />
@@ -76,18 +76,18 @@
       <config projectName="Project" targetName="search-vocab" />
       <config projectName="Project" targetName="meta-utf" />
       <config projectName="Project" targetName="read-trees" />
-      <config projectName="Project" targetName="meta-analyzers" />
       <config projectName="Project" targetName="meta-features" />
       <config projectName="Project" targetName="top-k" />
+      <config projectName="Project" targetName="meta-analyzers" />
       <config projectName="Project" targetName="parse" />
       <config projectName="Project" targetName="cpptoml-parser" />
       <config projectName="Project" targetName="meta-embeddings" />
       <config projectName="Project" targetName="meta-greedy-tagger" />
       <config projectName="Project" targetName="tidy" />
       <config projectName="Project" targetName="libsvm" />
-      <config projectName="Project" targetName="meta-kernel" />
       <config projectName="Project" targetName="wiki-page-rank" />
       <config projectName="Project" targetName="breast-cancer" />
+      <config projectName="Project" targetName="meta-kernel" />
       <config projectName="Project" targetName="ranking-experiment" />
     </generated>
   </component>
@@ -113,6 +113,40 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Assignment_1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="analyze.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analyze.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="134" column="67" selection-start-line="134" selection-start-column="67" selection-end-line="134" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/analyze.cpp" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -167,6 +201,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Assignment_1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -650,32 +706,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475694607028</updated>
-      <workItem from="1475694615059" duration="195000" />
+      <workItem from="1475694615059" duration="548000" />
+      <workItem from="1475695274291" duration="1776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195000" />
+    <option name="totallyTimeSpent" value="2324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -694,5 +751,31 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../meta/build/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="134" column="67" selection-start-line="134" selection-start-column="67" selection-end-line="134" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
