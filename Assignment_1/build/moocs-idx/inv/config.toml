@@ -1,0 +1,83 @@
+stop-words = "../../meta/data/lemur-stopwords.txt"
+querypath = "../../meta/data/moocs/"
+query-judgements = "../../meta/data/moocs/moocs-qrels.txt"
+index = "moocs-idx"
+end-exceptions = "../../meta/data/sentence-boundaries/sentence-end-exceptions.txt"
+start-exceptions = "../../meta/data/sentence-boundaries/sentence-start-exceptions.txt"
+corpus = "line.toml"
+punctuation = "../../meta/data/sentence-boundaries/sentence-punctuation.txt"
+function-words = "../../meta/data/function-words.txt"
+prefix = "../../meta/data/"
+dataset = "moocs"
+libsvm-modules = "../../meta/deps/libsvm-modules/"
+[embeddings]
+	vector-size = 50
+	prefix = "word-embeddings"
+	[embeddings.vocab]
+		max-size = 500000
+		min-count = 10
+	[[embeddings.filter]]
+		type = "icu-tokenizer"
+	[[embeddings.filter]]
+		type = "lowercase"
+[ranker]
+	k3 = 500
+	k1 = 1.20000
+	b = 0.200000
+	method = "bm25"
+[classifier]
+	method = "one-vs-all"
+	[classifier.base]
+		loss = "hinge"
+		method = "sgd"
+[sequence]
+	test-sections = [22, 24]
+	dev-sections = [19, 21]
+	train-sections = [0, 18]
+	prefix = "../../meta/data/perceptron-tagger"
+	section-size = 99
+	treebank = "penn-treebank"
+	corpus = "wsj"
+[[analyzers]]
+	filter = "default-unigram-chain"
+	ngram = 1
+	method = "ngram-word"
+[lda]
+	model-prefix = "lda-model"
+	topics = 4
+	inference = "gibbs"
+	max-iters = 1000
+	alpha = 1.00000
+	beta = 1.00000
+[crf]
+	test-sections = [22, 24]
+	dev-sections = [19, 21]
+	train-sections = [0, 18]
+	prefix = "crf"
+	section-size = 99
+	treebank = "penn-treebank"
+	corpus = "wsj"
+[diff]
+	substitute-penalty = 0.00000
+	prefix = "../../meta/data"
+	remove-penalty = 0.00000
+	insert-penalty = 0.00000
+	dataset = "20newsgroups"
+	n-value = 3
+	base-penalty = 0.00000
+	max-edits = 3
+[features]
+	features-per-class = 20
+	prefix = "features"
+	method = "info-gain"
+[parser]
+	test-sections = [23, 23]
+	dev-sections = [22, 22]
+	train-sections = [2, 21]
+	prefix = "parser"
+	section-size = 99
+	treebank = "penn-treebank"
+	corpus = "wsj"
+[language-model]
+	binary-file-prefix = "english-sentences-"
+	arpa-file = "../../meta/data/english-sentences.arpa"
