@@ -1,18 +1,18 @@
 Performing C++ SOURCE FILE Test META_HAS_ALIGNED_ALLOC failed with the following output:
 Change Dir: C:/msys64/home/hmaurya/meta/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/usr/bin/make.exe" "cmTC_a3f02/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a3f02.dir/build.make CMakeFiles/cmTC_a3f02.dir/build
+Run Build Command:"C:/msys64/usr/bin/make.exe" "cmTC_0817e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0817e.dir/build.make CMakeFiles/cmTC_0817e.dir/build
 make[1]: Entering directory '/home/hmaurya/meta/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a3f02.dir/src.cxx.obj
-/C/msys64/mingw64/bin/g++.exe     -DMETA_HAS_ALIGNED_ALLOC  -std=c++14   -o CMakeFiles/cmTC_a3f02.dir/src.cxx.obj -c /C/msys64/home/hmaurya/meta/build/CMakeFiles/CMakeTmp/src.cxx
+Building CXX object CMakeFiles/cmTC_0817e.dir/src.cxx.obj
+/C/msys64/mingw64/bin/g++.exe     -DMETA_HAS_ALIGNED_ALLOC  -std=c++14   -o CMakeFiles/cmTC_0817e.dir/src.cxx.obj -c /C/msys64/home/hmaurya/meta/build/CMakeFiles/CMakeTmp/src.cxx
 C:/msys64/home/hmaurya/meta/build/CMakeFiles/CMakeTmp/src.cxx: In function 'int main()':
 C:/msys64/home/hmaurya/meta/build/CMakeFiles/CMakeTmp/src.cxx:6:5: error: '::aligned_alloc' has not been declared
      ::aligned_alloc(64, 128);
      ^~
-make[1]: *** [CMakeFiles/cmTC_a3f02.dir/build.make:66: CMakeFiles/cmTC_a3f02.dir/src.cxx.obj] Error 1
+make[1]: *** [CMakeFiles/cmTC_0817e.dir/build.make:66: CMakeFiles/cmTC_0817e.dir/src.cxx.obj] Error 1
 make[1]: Leaving directory '/home/hmaurya/meta/build/CMakeFiles/CMakeTmp'
-make: *** [Makefile:126: cmTC_a3f02/fast] Error 2
+make: *** [Makefile:126: cmTC_0817e/fast] Error 2
 
 Source file was:
 
