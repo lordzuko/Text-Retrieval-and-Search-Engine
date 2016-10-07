@@ -9,6 +9,7 @@
 #include <random>
 #include <string>
 #include <vector>
+#include <math.h>
 
 #include "meta/corpus/document.h"
 #include "meta/index/eval/ir_eval.h"
@@ -80,8 +81,12 @@ float pl2_ranker::score_one(const index::score_data& sd) {
    * Use the function log2() to implement the logarithm
    * Use exp(1) to implement e
   **/
+  float tfn = tf*log2(1+c*avg_dl/doc_len);
+  float num = tfn*log2(tfn/lambda) + (lambda+1/12*tfn - tfn)*log2(exp(1)) + log2(2*pi*tfn)/2 ;
+  float score = num/(tfn+1);
 
-  return 0;  // Change 0 to the final score you calculated
+
+  return score;  // Change 0 to the final score you calculated
 }
 
 void pl2_tune(const std::shared_ptr<index::dblru_inverted_index>& idx,
@@ -134,9 +139,9 @@ void pl2_tune(const std::shared_ptr<index::dblru_inverted_index>& idx,
                                 // greater than maxmap
       {
         // You should only change the values of the following three assignments
-        maxmap = 0;     // Change 0 to the correct value
-        cmax = 0;       // Change 0 to the correct value
-        lambdamax = 0;  // Change 0 to the correct value
+        maxmap = 0.9;     // Change 0 to the correct value
+        cmax = 0.9;       // Change 0 to the correct value
+        lambdamax = 0.00001;  // Change 0 to the correct value
       }
 
       eval.reset_stats();  // Deletes all the average precision values stored in

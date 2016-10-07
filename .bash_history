@@ -167,3 +167,110 @@ dir
 exit
 cd Assignment_1/build/
 ../../meta/build/index.exe ../config.toml 
+cd Assignment_1/
+./setup.sh 
+cd build/
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release
+make -j8
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release
+make -j8
+./analyze.exe ../config.toml Assignment1/doc.txt --stop
+wc  < doc.stops.txt | sed 's/^\s*//g' > doc.stops.txt.wc
+cd Assignment1/
+wc  < doc.stops.txt | sed 's/^\s*//g' > doc.stops.txt.wc
+cd ..
+./analyze.exe ../config.toml Assignment1/doc.txt --stem
+cd Assignment1/
+wc  < doc.stops.txt | sed 's/^\s*//g' > doc.stems.txt.wc
+cd ..
+./analyze.exe ../config.toml Assignment1/doc.txt --pos
+cd Assignment1/
+wc  < doc.stops.txt | sed 's/^\s*//g' > doc.pos-tagged.txt.wc
+./analyze.exe ../config.toml Assignment1/doc.txt --stopstem
+cd ..
+./analyze.exe ../config.toml Assignment1/doc.txt --stopstem
+cd Assignment1/
+wc  < doc.stops.txt | sed 's/^\s*//g' > doc.stopstem.txt.wc
+cd ..
+../../meta/build/index.exe ../config.toml 
+cd ..
+cd ..
+cd meta/
+./build/index.exe config.toml 
+ll
+dir
+cd ..
+dir
+git clone https://github.com/meta-toolkit/meta.git
+cd meta/
+git submodule update --init --recursive
+mkdir build
+cd build/
+cp ../config.toml .
+dir
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release
+make -j8
+cd ..
+ cd ..
+dir
+cd Assignment_1/
+cd build/
+../../meta/build/index ../config.toml
+cd ../..
+./meta/build/index ../config.toml
+./meta/build/index ../config.toml
+dir
+cd ..
+ll
+dir
+cd hmaurya/
+dir
+cd Assignment_1/
+dir
+cd ..
+dir 
+cd meta/
+dir
+cd build/
+dir 
+./index.exe ../config.toml 
+cd ..
+cd ..
+dir 
+cd Assignment_1/
+dir
+cd build/
+dir
+cd ..
+cd build/
+dir
+cd ..
+dir
+../meta/build/index.exe config.toml 
+cd build/
+../../meta/build/index.exe ../config.toml 
+../../meta/build/index.exe ../config.toml 
+../../meta/build/index.exe ../config.toml 
+./ranking-experiment.exe ../config.toml task4
+./ranking-experiment.exe ../config.toml task5
+pacman -Syu git make mingw-w64-x86_64-{gcc,cmake,icu,jemalloc,zlib} --force
+cd Assignment_1/build/
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release
+make -j8
+./ranking-experiment.exe ../config.toml task6
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+make -j8
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+./ranking-experiment.exe ../config.toml task7
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+./ranking-experiment.exe ../config.toml task7
+cmake .. -G "MSYS Makefiles" -DCMAKE_BUILD_TYPE=Release ; make -j8
+./ranking-experiment.exe ../config.toml task7
+./ranking-experiment.exe ../config.toml task6

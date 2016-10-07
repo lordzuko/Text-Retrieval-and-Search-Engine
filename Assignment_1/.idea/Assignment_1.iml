@@ -114,20 +114,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/embeddings/word_embeddings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/embeddings/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/sentence.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/diff_test.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/sentence_likelihood.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/query_lm.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/build_mph_lm.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/token_list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/language_model.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/static_probe_map.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/diff.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/analyzers/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/analyzers/diff_analyzer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/mph_language_model.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/bit_vector.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/sarray.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/compressed_vector.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/util/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/util/progress.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/regression/tools/regression.cpp" isTestSource="false" />
@@ -146,28 +136,20 @@
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/features/feature_selector.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/features/selector_factory.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/features/information_gain.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/greedy_tagger_test.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/greedy_tagger_train.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/trellis.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/sequence.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/analyzers/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/analyzers/ngram_pos_analyzer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/observation.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/sequence_analyzer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/crf_test.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/crf_train.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/pos_tag.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/pos_tokenizer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/crf.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tagger.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/viterbi_scorer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/scorer.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/io/ptb_parser.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/perceptron.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/sentence.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/diff_test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/sentence_likelihood.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/query_lm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/tools/build_mph_lm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/token_list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/language_model.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/static_probe_map.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/diff.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/analyzers/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/analyzers/diff_analyzer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/lm/mph_language_model.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/topics/tools/lda.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/topics/tools/topic_corpus.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/topics/tools/lda_topics.cpp" isTestSource="false" />
@@ -265,10 +247,28 @@
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/parser/transition.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/parser/transition_finder.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/src/parser/sequence_extractor.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/bit_vector.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/sarray.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/compressed_vector.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../meta/src/succinct/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/greedy_tagger_test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/tools/greedy_tagger_train.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/trellis.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/sequence.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/analyzers/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/analyzers/ngram_pos_analyzer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/observation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/sequence_analyzer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/crf_test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/crf_train.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/pos_tag.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tools/pos_tokenizer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/crf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/tagger.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/viterbi_scorer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/crf/scorer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/io/ptb_parser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../meta/src/sequence/perceptron.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/tests/darray_test.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/tests/perfect_hash_test.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../meta/tests/metadata_test.cpp" isTestSource="false" />
@@ -311,20 +311,20 @@
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include" />
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed" />
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/x86_64-w64-mingw32/include" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/MinSizeRel/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Debug/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Release/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/RelWithDebInfo/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Release0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/RelWithDebInfo0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/MinSizeRel0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Debug0/meta" />
           <root url="file://$MODULE_DIR$/../../../mingw64/include" />
         </CLASSES>
         <SOURCES>
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include" />
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed" />
           <root url="file://C:/Program Files/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/x86_64-w64-mingw32/include" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/MinSizeRel/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Debug/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Release/meta" />
-          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/RelWithDebInfo/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Release0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/RelWithDebInfo0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/MinSizeRel0/meta" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Assignment_1-690e485e/690e485e/Debug0/meta" />
           <root url="file://$MODULE_DIR$/../../../mingw64/include" />
         </SOURCES>
       </library>
